@@ -1,6 +1,6 @@
 body {
 
-    background: #000000 url(imagens/espaco.jpg) no-repeat ;
+    background: #000000 url('imagens/espaco.jpg') no-repeat ;
     background-size: cover;
     background-attachment: fixed;
     margin: 0;
@@ -8,7 +8,7 @@ body {
 }
 
 #conteudo {
-    background: url(imagens/astronauta.png) center center fixed;
+    background: url('imagens/astronauta.png') center center fixed;
     background-size: cover;
 
     position: absolute;
